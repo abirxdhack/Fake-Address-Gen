@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Corniche Street",
+    "street_name": "Corniche Street",
+    "building_number": "123",
+    "city": "Doha",
+    "state": "Doha",
+    "postal_code": "00000",
+    "country": "Qatar",
+    "country_code": "QA",
+    "currency": "QAR"
+  },
+  {
+    "street_address": "456 Al Sadd Street",
+    "street_name": "Al Sadd Street",
+    "building_number": "456",
+    "city": "Doha",
+    "state": "Doha",
+    "postal_code": "00000",
+    "country": "Qatar",
+    "country_code": "QA",
+    "currency": "QAR"
+  },
+  {
+    "street_address": "789 West Bay",
+    "street_name": "West Bay",
+    "building_number": "789",
+    "city": "Doha",
+    "state": "Doha",
+    "postal_code": "00000",
+    "country": "Qatar",
+    "country_code": "QA",
+    "currency": "QAR"
+  },
+  {
+    "street_address": "101 Al Waab Street",
+    "street_name": "Al Waab Street",
+    "building_number": "101",
+    "city": "Doha",
+    "state": "Doha",
+    "postal_code": "00000",
+    "country": "Qatar",
+    "country_code": "QA",
+    "currency": "QAR"
+  },
+  {
+    "street_address": "34 Al Khor Street",
+    "street_name": "Al Khor Street",
+    "building_number": "34",
+    "city": "Doha",
+    "state": "Doha",
+    "postal_code": "00000",
+    "country": "Qatar",
+    "country_code": "QA",
+    "currency": "QAR"
+  }
+]

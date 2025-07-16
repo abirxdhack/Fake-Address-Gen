@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "10 Orchard Road",
+    "street_name": "Orchard Road",
+    "building_number": "10",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "238841",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "street_address": "45 Marina Bay Sands",
+    "street_name": "Marina Bay Sands",
+    "building_number": "45",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "018956",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "street_address": "789 Bugis Street",
+    "street_name": "Bugis Street",
+    "building_number": "789",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "188025",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "street_address": "34 Clarke Quay",
+    "street_name": "Clarke Quay",
+    "building_number": "34",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "059824",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "street_address": "12 Sentosa Gateway",
+    "street_name": "Sentosa Gateway",
+    "building_number": "12",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "098138",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  }
+]

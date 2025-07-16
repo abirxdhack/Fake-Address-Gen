@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 George Street",
+    "street_name": "George Street",
+    "building_number": "123",
+    "city": "Sydney",
+    "state": "NSW",
+    "postal_code": "2000",
+    "country": "Australia",
+    "country_code": "AU",
+    "currency": "AUD"
+  },
+  {
+    "street_address": "456 Collins Street",
+    "street_name": "Collins Street",
+    "building_number": "456",
+    "city": "Melbourne",
+    "state": "VIC",
+    "postal_code": "3000",
+    "country": "Australia",
+    "country_code": "AU",
+    "currency": "AUD"
+  },
+  {
+    "street_address": "789 Queen Street",
+    "street_name": "Queen Street",
+    "building_number": "789",
+    "city": "Brisbane",
+    "state": "QLD",
+    "postal_code": "4000",
+    "country": "Australia",
+    "country_code": "AU",
+    "currency": "AUD"
+  },
+  {
+    "street_address": "101 St Georges Terrace",
+    "street_name": "St Georges Terrace",
+    "building_number": "101",
+    "city": "Perth",
+    "state": "WA",
+    "postal_code": "6000",
+    "country": "Australia",
+    "country_code": "AU",
+    "currency": "AUD"
+  },
+  {
+    "street_address": "34 Northbourne Avenue",
+    "street_name": "Northbourne Avenue",
+    "building_number": "34",
+    "city": "Canberra",
+    "state": "ACT",
+    "postal_code": "2601",
+    "country": "Australia",
+    "country_code": "AU",
+    "currency": "AUD"
+  }
+]

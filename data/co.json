@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "Carrera 7 #12-34",
+    "street_name": "Carrera 7",
+    "building_number": "12-34",
+    "city": "Bogotá",
+    "state": "Bogotá D.C.",
+    "postal_code": "110321",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "Calle 10 #45-67",
+    "street_name": "Calle 10",
+    "building_number": "45-67",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "postal_code": "050021",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "Avenida 4 #78-90",
+    "street_name": "Avenida 4",
+    "building_number": "78-90",
+    "city": "Cali",
+    "state": "Valle del Cauca",
+    "postal_code": "760042",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "Carrera 3 #56-78",
+    "street_name": "Carrera 3",
+    "building_number": "56-78",
+    "city": "Barranquilla",
+    "state": "Atlántico",
+    "postal_code": "080020",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "Calle 15 #23-45",
+    "street_name": "Calle 15",
+    "building_number": "23-45",
+    "city": "Cartagena",
+    "state": "Bolívar",
+    "postal_code": "130001",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  }
+]

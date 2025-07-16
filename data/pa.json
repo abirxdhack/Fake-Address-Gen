@@ -1,0 +1,58 @@
+[
+  {
+    "street_address": "123 Via España",
+    "street_name": "Via España",
+    "building_number": "123",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "street_address": "456 Avenida Balboa",
+    "street_name": "Avenida Balboa",
+    "building_number": "456",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "street_address": "789 Calle 50",
+    "street_name": "Calle 50",
+    "building_number": "789",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "street_address": "101 Avenida Central",
+    "street_name": "Avenida Central",
+    "building_number": "101",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Pan estrelado
+ama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "street_address": "34 Calle Uruguay",
+    "street_name": "Calle Uruguay",
+    "building_number": "34",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  }
+]

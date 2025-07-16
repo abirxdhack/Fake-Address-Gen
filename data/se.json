@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Drottninggatan",
+    "street_name": "Drottninggatan",
+    "building_number": "123",
+    "city": "Stockholm",
+    "state": "Stockholm",
+    "postal_code": "111 21",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "street_address": "456 Kungsportsavenyn",
+    "street_name": "Kungsportsavenyn",
+    "building_number": "456",
+    "city": "Gothenburg",
+    "state": "Västra Götaland",
+    "postal_code": "411 36",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "street_address": "789 Stora Nygatan",
+    "street_name": "Stora Nygatan",
+    "building_number": "789",
+    "city": "Malmö",
+    "state": "Skåne",
+    "postal_code": "211 37",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "street_address": "101 Storgatan",
+    "street_name": "Storgatan",
+    "building_number": "101",
+    "city": "Uppsala",
+    "state": "Uppsala",
+    "postal_code": "753 31",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "street_address": "34 Norra Vallgatan",
+    "street_name": "Norra Vallgatan",
+    "building_number": "34",
+    "city": "Lund",
+    "state": "Skåne",
+    "postal_code": "222 22",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  }
+]

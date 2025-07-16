@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Dev Address API Status</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #333333;
+            font-family: 'Inter', sans-serif;
+        }
+        .gradient-text {
+            background: linear-gradient(90deg, #3b82f6, #10b981);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        .telegram-icon {
+            width: 24px;
+            height: 24px;
+            vertical-align: middle;
+        }
+        #address-output {
+            white-space: pre-wrap;
+            word-break: break-word;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container mx-auto px-4 py-8">
+        <!-- Title -->
+        <h1 class="text-5xl md:text-6xl font-bold text-center gradient-text mb-8">
+            Smart Dev Address Generator API
+        </h1>
+
+        <!-- Developer Info -->
+        <div class="flex justify-center items-center mb-12">
+            <p class="text-2xl font-semibold text-gray-700">
+                Developed By <span class="text-blue-600">Abir Arafat Chawdhury</span>
+            </p>
+            <img src="https://kurigram.live/assets/pyro.gif" alt="Pyro GIF" class="w-16 h-16 ml-4">
+        </div>
+
+        <!-- API Status -->
+        <div class="text-center mb-12">
+            <h2 class="text-3xl font-semibold text-gray-800 mb-4">API Status</h2>
+            <p id="api-status" class="text-xl font-medium text-gray-600">
+                Checking...
+            </p>
+        </div>
+
+        <!-- Address Generator -->
+        <div class="mb-12">
+            <h2 class="text-3xl font-semibold text-gray-800 text-center mb-6">
+                Generate Fake Address
+            </h2>
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4 mb-6">
+                <select id="country-select" class="p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    <option value="" disabled selected>Select a country</option>
+                    <option value="US">United States (US)</option>
+                    <option value="UK">United Kingdom (UK)</option>
+                    <option value="KZ">Kazakhstan (KZ)</option>
+                    <option value="BD">Bangladesh (BD)</option>
+                    <option value="CA">Canada (CA)</option>
+                    <option value="PE">Peru (PE)</option>
+                    <option value="EG">Egypt (EG)</option>
+                    <option value="IN">India (IN)</option>
+                    <option value="IT">Italy (IT)</option>
+                    <option value="JP">Japan (JP)</option>
+                    <option value="QA">Qatar (QA)</option>
+                    <option value="ES">Spain (ES)</option>
+                    <option value="BR">Brazil (BR)</option>
+                    <option value="FR">France (FR)</option>
+                    <option value="MX">Mexico (MX)</option>
+                    <option value="PA">Panama (PA)</option>
+                    <option value="PL">Poland (PL)</option>
+                    <option value="SE">Sweden (SE)</option>
+                    <option value="DZ">Algeria (DZ)</option>
+                    <option value="BH">Bahrain (BH)</option>
+                    <option value="BE">Belgium (BE)</option>
+                    <option value="DK">Denmark (DK)</option>
+                    <option value="FI">Finland (FI)</option>
+                    <option value="DE">Germany (DE)</option>
+                    <option value="MA">Morocco (MA)</option>
+                    <option value="TR">Turkiye (TR)</option>
+                    <option value="KH">Cambodia (KH)</option>
+                    <option value="CO">Colombia (CO)</option>
+                    <option value="MY">Malaysia (MY)</option>
+                    <option value="PK">Pakistan (PK)</option>
+                    <option value="TH">Thailand (TH)</option>
+                    <option value="AR">Argentina (AR)</option>
+                    <option value="AU">Australia (AU)</option>
+                    <option value="SG">Singapore (SG)</option>
+                    <option value="NZ">New Zealand (NZ)</option>
+                    <option value="CH">Switzerland (CH)</option>
+                    <option value="SA">Saudi Arabia (SA)</option>
+                    <option value="MM">Myanmar (MM)</option>
+                </select>
+                <button id="generate-btn" class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition">
+                    Generate Address
+                </button>
+            </div>
+            <div id="address-output" class="bg-gray-50 p-4 rounded-lg shadow-sm text-gray-700 text-center">
+                Select a country and click "Generate Address" to see a random address.
+            </div>
+        </div>
+
+        <!-- API Endpoints -->
+        <div class="mb-12">
+            <h2 class="text-3xl font-semibold text-gray-800 text-center mb-6">
+                API Endpoints
+            </h2>
+            <div class="bg-gray-50 p-4 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-gray-700 mb-4">GET /api/address</h3>
+                <p class="text-gray-600 mb-2"><strong>Description:</strong> Generates a random fake address for the specified country.</p>
+                <p class="text-gray-600 mb-2"><strong>Query Parameters:</strong></p>
+                <ul class="list-disc list-inside text-gray-600 mb-4">
+                    <li><code>code</code>: The country code (e.g., US, UK, BD). Required.</li>
+                </ul>
+                <p class="text-gray-600 mb-2"><strong>Example Request:</strong></p>
+                <pre class="bg-gray-100 p-2 rounded text-sm text-gray-700">curl -X GET "https://api.example.com/api/address?code=US"</pre>
+            </div>
+        </div>
+
+        <!-- Response Examples -->
+        <div class="mb-12">
+            <h2 class="text-3xl font-semibold text-gray-800 text-center mb-6">
+                Response Examples
+            </h2>
+            <div class="bg-gray-50 p-4 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-gray-700 mb-4">Successful Response</h3>
+                <pre class="bg-gray-100 p-2 rounded text-sm text-gray-700">
+{
+  "api_owner": "@ISmartCoder",
+  "api_updates": "t.me/TheSmartDev",
+  "building_number": "456",
+  "city": "Los Angeles",
+  "country": "United States",
+  "country_code": "US",
+  "currency": "USD",
+  "postal_code": "90028",
+  "state": "California",
+  "street_address": "456 Hollywood Boulevard",
+  "street_name": "Hollywood Boulevard"
+}
+                </pre>
+                <h3 class="text-xl font-semibold text-gray-700 mt-6 mb-4">Error Response</h3>
+                <pre class="bg-gray-100 p-2 rounded text-sm text-gray-700">
+{
+  "error": "Invalid country code"
+}
+                </pre>
+            </div>
+        </div>
+
+        <!-- Thanks Note -->
+        <div class="text-center mb-12">
+            <p class="text-xl font-medium text-gray-700">
+                Thanks To <span class="text-green-600">Mahir Labib</span> For Database...From Core Of Heart
+            </p>
+        </div>
+
+        <!-- Supported Countries -->
+        <div class="mb-12">
+            <h2 class="text-3xl font-semibold text-gray-800 text-center mb-6">
+                Supported Countries
+            </h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">US</span> - United States
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">UK</span> - United Kingdom
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">KZ</span> - Kazakhstan
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">BD</span> - Bangladesh
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">CA</span> - Canada
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">PE</span> - Peru
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">EG</span> - Egypt
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">IN</span> - India
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">IT</span> - Italy
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">JP</span> - Japan
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">QA</span> - Qatar
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">ES</span> - Spain
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">BR</span> - Brazil
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">FR</span> - France
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">MX</span> - Mexico
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">PA</span> - Panama
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">PL</span> - Poland
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">SE</span> - Sweden
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">DZ</span> - Algeria
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">BH</span> - Bahrain
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">BE</span> - Belgium
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">DK</span> - Denmark
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">FI</span> - Finland
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">DE</span> - Germany
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">MA</span> - Morocco
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">TR</span> - Turkiye
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">KH</span> - Cambodia
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">CO</span> - Colombia
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">MY</span> - Malaysia
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">PK</span> - Pakistan
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">TH</span> - Thailand
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">AR</span> - Argentina
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">AU</span> - Australia
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">SG</span> - Singapore
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">NZ</span> - New Zealand
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">CH</span> - Switzerland
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">SA</span> - Saudi Arabia
+                </div>
+                <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">MM</span> - Myanmar
+                </div>
+            </div>
+        </div>
+
+        <!-- API Owner -->
+        <div class="flex justify-center items-center mb-12">
+            <p class="text-xl font-semibold text-gray-700">
+                API Owner <a href="https://t.me/TheSmartDev" class="text-blue-600">@TheSmartDev</a>
+            </p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Icon" class="telegram-icon ml-2">
+        </div>
+
+        <!-- Promotional Footer -->
+        <div class="text-center bg-gray-100 py-6 rounded-lg">
+            <p class="text-lg font-medium text-gray-700">
+                Want Custom APIs Or Bots Custom?<br>
+                Python Php And NodeJS All Available<br>
+                To Buy Or Make DM
+                <a href="https://t.me/ISmartCoder" class="text-blue-600">@ISmartCoder</a>
+                <img src="https://kurigram.live/assets/pyro.gif" alt="Pyro GIF" class="w-8 h-8 inline-block ml-2">
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Check API status
+        async function checkApiStatus() {
+            const statusElement = document.getElementById('api-status');
+            try {
+                const response = await fetch('/api/address?code=bd');
+                if (response.ok) {
+                    statusElement.textContent = 'Live';
+                    statusElement.classList.add('text-green-600');
+                } else {
+                    statusElement.textContent = 'Dead';
+                    statusElement.classList.add('text-red-600');
+                }
+            } catch (error) {
+                statusElement.textContent = 'Dead';
+                statusElement.classList.add('text-red-600');
+            }
+        }
+
+        // Generate random address
+        async function generateAddress() {
+            const countrySelect = document.getElementById('country-select');
+            const addressOutput = document.getElementById('address-output');
+            const countryCode = countrySelect.value;
+
+            if (!countryCode) {
+                addressOutput.textContent = 'Please select a country.';
+                addressOutput.classList.add('text-red-600');
+                return;
+            }
+
+            try {
+                const response = await fetch(`/api/address?code=${countryCode}`);
+                if (response.ok) {
+                    const address = await response.json();
+                    addressOutput.textContent = JSON.stringify(address, null, 2);
+                    addressOutput.classList.remove('text-red-600');
+                    addressOutput.classList.add('text-gray-700');
+                } else {
+                    const error = await response.json();
+                    addressOutput.textContent = `Error: ${error.error}`;
+                    addressOutput.classList.add('text-red-600');
+                }
+            } catch (error) {
+                addressOutput.textContent = `Error: Failed to fetch address`;
+                addressOutput.classList.add('text-red-600');
+            }
+        }
+
+        // Event listener for generate button
+        document.getElementById('generate-btn').addEventListener('click', generateAddress);
+
+        // Run API status check on page load
+        window.onload = checkApiStatus;
+    </script>
+</body>
+</html>

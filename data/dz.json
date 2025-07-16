@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "12 Rue Didouche Mourad",
+    "street_name": "Rue Didouche Mourad",
+    "building_number": "12",
+    "city": "Algiers",
+    "state": "Algiers Province",
+    "postal_code": "16000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  },
+  {
+    "street_address": "45 Avenue Pasteur",
+    "street_name": "Avenue Pasteur",
+    "building_number": "45",
+    "city": "Oran",
+    "state": "Oran Province",
+    "postal_code": "31000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  },
+  {
+    "street_address": "789 Boulevard Zighout Youcef",
+    "street_name": "Boulevard Zighout Youcef",
+    "building_number": "789",
+    "city": "Constantine",
+    "state": "Constantine Province",
+    "postal_code": "25000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  },
+  {
+    "street_address": "101 Rue des Frères Benhafid",
+    "street_name": "Rue des Frères Benhafid",
+    "building_number": "101",
+    "city": "Annaba",
+    "state": "Annaba Province",
+    "postal_code": "23000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  },
+  {
+    "street_address": "34 Rue Larbi Ben M'hidi",
+    "street_name": "Rue Larbi Ben M'hidi",
+    "building_number": "34",
+    "city": "Blida",
+    "state": "Blida Province",
+    "postal_code": "09000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  }
+]

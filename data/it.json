@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "12 Via del Corso",
+    "street_name": "Via del Corso",
+    "building_number": "12",
+    "city": "Rome",
+    "state": "Lazio",
+    "postal_code": "00186",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "45 Piazza del Duomo",
+    "street_name": "Piazza del Duomo",
+    "building_number": "45",
+    "city": "Milan",
+    "state": "Lombardy",
+    "postal_code": "20122",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "78 Via Tornabuoni",
+    "street_name": "Via Tornabuoni",
+    "building_number": "78",
+    "city": "Florence",
+    "state": "Tuscany",
+    "postal_code": "50123",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "101 Calle Larga",
+    "street_name": "Calle Larga",
+    "building_number": "101",
+    "city": "Venice",
+    "state": "Veneto",
+    "postal_code": "30125",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "234 Via Partenope",
+    "street_name": "Via Partenope",
+    "building_number": "234",
+    "city": "Naples",
+    "state": "Campania",
+    "postal_code": "80121",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "Avenida Paulista 1000",
+    "street_name": "Avenida Paulista",
+    "building_number": "1000",
+    "city": "São Paulo",
+    "state": "SP",
+    "postal_code": "01310-100",
+    "country": "Brazil",
+    "country_code": "BR",
+    "currency": "BRL"
+  },
+  {
+    "street_address": "Rua Oscar Freire 200",
+    "street_name": "Rua Oscar Freire",
+    "building_number": "200",
+    "city": "São Paulo",
+    "state": "SP",
+    "postal_code": "01426-001",
+    "country": "Brazil",
+    "country_code": "BR",
+    "currency": "BRL"
+  },
+  {
+    "street_address": "Avenida Atlântica 1702",
+    "street_name": "Avenida Atlântica",
+    "building_number": "1702",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "postal_code": "22021-001",
+    "country": "Brazil",
+    "country_code": "BR",
+    "currency": "BRL"
+  },
+  {
+    "street_address": "Rua Gonçalves Dias 30",
+    "street_name": "Rua Gonçalves Dias",
+    "building_number": "30",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "postal_code": "30140-090",
+    "country": "Brazil",
+    "country_code": "BR",
+    "currency": "BRL"
+  },
+  {
+    "street_address": "Avenida Borges de Medeiros 150",
+    "street_name": "Avenida Borges de Medeiros",
+    "building_number": "150",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "postal_code": "90020-022",
+    "country": "Brazil",
+    "country_code": "BR",
+    "currency": "BRL"
+  }
+]

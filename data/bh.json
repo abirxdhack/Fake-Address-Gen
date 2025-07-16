@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Government Avenue",
+    "street_name": "Government Avenue",
+    "building_number": "123",
+    "city": "Manama",
+    "state": "Capital Governorate",
+    "postal_code": "12345",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "currency": "BHD"
+  },
+  {
+    "street_address": "456 King Faisal Highway",
+    "street_name": "King Faisal Highway",
+    "building_number": "456",
+    "city": "Manama",
+    "state": "Capital Governorate",
+    "postal_code": "23456",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "currency": "BHD"
+  },
+  {
+    "street_address": "789 Budaiya Road",
+    "street_name": "Budaiya Road",
+    "building_number": "789",
+    "city": "Manama",
+    "state": "Capital Governorate",
+    "postal_code": "34567",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "currency": "BHD"
+  },
+  {
+    "street_address": "101 Al Fateh Avenue",
+    "street_name": "Al Fateh Avenue",
+    "building_number": "101",
+    "city": "Manama",
+    "state": "Capital Governorate",
+    "postal_code": "45678",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "currency": "BHD"
+  },
+  {
+    "street_address": "34 Exhibition Avenue",
+    "street_name": "Exhibition Avenue",
+    "building_number": "34",
+    "city": "Manama",
+    "state": "Capital Governorate",
+    "postal_code": "56789",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "currency": "BHD"
+  }
+]

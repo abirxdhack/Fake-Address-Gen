@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Avenue Mohammed V",
+    "street_name": "Avenue Mohammed V",
+    "building_number": "123",
+    "city": "Rabat",
+    "state": "Rabat-Salé-Kénitra",
+    "postal_code": "10000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "street_address": "456 Boulevard Mohamed VI",
+    "street_name": "Boulevard Mohamed VI",
+    "building_number": "456",
+    "city": "Casablanca",
+    "state": "Casablanca-Settat",
+    "postal_code": "20000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "street_address": "789 Rue de la Liberté",
+    "street_name": "Rue de la Liberté",
+    "building_number": "789",
+    "city": "Marrakesh",
+    "state": "Marrakesh-Safi",
+    "postal_code": "40000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "street_address": "101 Avenue Hassan II",
+    "street_name": "Avenue Hassan II",
+    "building_number": "101",
+    "city": "Fes",
+    "state": "Fès-Meknès",
+    "postal_code": "30000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "street_address": "34 Rue de la Résistance",
+    "street_name": "Rue de la Résistance",
+    "building_number": "34",
+    "city": "Tangier",
+    "state": "Tanger-Tétouan-Al Hoceïma",
+    "postal_code": "90000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  }
+]

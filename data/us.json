@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Main Street",
+    "street_name": "Main Street",
+    "building_number": "123",
+    "city": "New York",
+    "state": "New York",
+    "postal_code": "10001",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "street_address": "456 Hollywood Boulevard",
+    "street_name": "Hollywood Boulevard",
+    "building_number": "456",
+    "city": "Los Angeles",
+    "state": "California",
+    "postal_code": "90028",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "street_address": "789 Michigan Avenue",
+    "street_name": "Michigan Avenue",
+    "building_number": "789",
+    "city": "Chicago",
+    "state": "Illinois",
+    "postal_code": "60611",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "street_address": "101 Peachtree Street",
+    "street_name": "Peachtree Street",
+    "building_number": "101",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "postal_code": "30303",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "street_address": "34 Bourbon Street",
+    "street_name": "Bourbon Street",
+    "building_number": "34",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "postal_code": "70116",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  }
+]

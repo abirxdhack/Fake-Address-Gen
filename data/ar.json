@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "Av. Rivadavia 1234",
+    "street_name": "Av. Rivadavia",
+    "building_number": "1234",
+    "city": "Buenos Aires",
+    "state": "CABA",
+    "postal_code": "C1033AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Calle Florida 456",
+    "street_name": "Calle Florida",
+    "building_number": "456",
+    "city": "Buenos Aires",
+    "state": "CABA",
+    "postal_code": "C1005AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Av. Corrientes 789",
+    "street_name": "Av. Corrientes",
+    "building_number": "789",
+    "city": "Buenos Aires",
+    "state": "CABA",
+    "postal_code": "C1043AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Calle Lavalle 101",
+    "street_name": "Calle Lavalle",
+    "building_number": "101",
+    "city": "Buenos Aires",
+    "state": "CABA",
+    "postal_code": "C1047AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Av. Santa Fe 2345",
+    "street_name": "Av. Santa Fe",
+    "building_number": "2345",
+    "city": "Buenos Aires",
+    "state": "CABA",
+    "postal_code": "C1123AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  }
+]

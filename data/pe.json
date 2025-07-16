@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Avenida Arequipa",
+    "street_name": "Avenida Arequipa",
+    "building_number": "123",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "street_address": "456 Jirón de la Unión",
+    "street_name": "Jirón de la Unión",
+    "building_number": "456",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "street_address": "789 Avenida Javier Prado",
+    "street_name": "Avenida Javier Prado",
+    "building_number": "789",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "street_address": "101 Avenida Larco",
+    "street_name": "Avenida Larco",
+    "building_number": "101",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "street_address": "34 Calle Los Pinos",
+    "street_name": "Calle Los Pinos",
+    "building_number": "34",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  }
+]

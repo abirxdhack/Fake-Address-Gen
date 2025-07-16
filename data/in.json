@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "120 MG Road",
+    "street_name": "MG Road",
+    "building_number": "120",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "postal_code": "400001",
+    "country": "India",
+    "country_code": "IN",
+    "currency": "INR"
+  },
+  {
+    "street_address": "45 Brigade Road",
+    "street_name": "Brigade Road",
+    "building_number": "45",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "postal_code": "560001",
+    "country": "India",
+    "country_code": "IN",
+    "currency": "INR"
+  },
+  {
+    "street_address": "789 Park Street",
+    "street_name": "Park Street",
+    "building_number": "789",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "postal_code": "700016",
+    "country": "India",
+    "country_code": "IN",
+    "currency": "INR"
+  },
+  {
+    "street_address": "34 Connaught Place",
+    "street_name": "Connaught Place",
+    "building_number": "34",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "postal_code": "110001",
+    "country": "India",
+    "country_code": "IN",
+    "currency": "INR"
+  },
+  {
+    "street_address": "12 Anna Salai",
+    "street_name": "Anna Salai",
+    "building_number": "12",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postal_code": "600002",
+    "country": "India",
+    "country_code": "IN",
+    "currency": "INR"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Nowy Świat",
+    "street_name": "Nowy Świat",
+    "building_number": "123",
+    "city": "Warsaw",
+    "state": "Masovian",
+    "postal_code": "00-001",
+    "country": "Poland",
+    "country_code": "PL",
+    "currency": "PLN"
+  },
+  {
+    "street_address": "456 Rynek Główny",
+    "street_name": "Rynek Główny",
+    "building_number": "456",
+    "city": "Kraków",
+    "state": "Lesser Poland",
+    "postal_code": "31-042",
+    "country": "Poland",
+    "country_code": "PL",
+    "currency": "PLN"
+  },
+  {
+    "street_address": "789 Piotrkowska",
+    "street_name": "Piotrkowska",
+    "building_number": "789",
+    "city": "Łódź",
+    "state": "Łódź",
+    "postal_code": "90-001",
+    "country": "Poland",
+    "country_code": "PL",
+    "currency": "PLN"
+  },
+  {
+    "street_address": "101 Długa",
+    "street_name": "Długa",
+    "building_number": "101",
+    "city": "Gdańsk",
+    "state": "Pomeranian",
+    "postal_code": "80-001",
+    "country": "Poland",
+    "country_code": "PL",
+    "currency": "PLN"
+  },
+  {
+    "street_address": "34 Stary Rynek",
+    "street_name": "Stary Rynek",
+    "building_number": "34",
+    "city": "Poznań",
+    "state": "Greater Poland",
+    "postal_code": "61-772",
+    "country": "Poland",
+    "country_code": "PL",
+    "currency": "PLN"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 King Fahd Road",
+    "street_name": "King Fahd Road",
+    "building_number": "123",
+    "city": "Riyadh",
+    "state": "Riyadh",
+    "postal_code": "12345",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "currency": "SAR"
+  },
+  {
+    "street_address": "456 Corniche Road",
+    "street_name": "Corniche Road",
+    "building_number": "456",
+    "city": "Jeddah",
+    "state": "Makkah",
+    "postal_code": "23456",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "currency": "SAR"
+  },
+  {
+    "street_address": "789 Prince Mohammed Bin Abdulaziz Road",
+    "street_name": "Prince Mohammed Bin Abdulaziz Road",
+    "building_number": "789",
+    "city": "Medina",
+    "state": "Al Madinah",
+    "postal_code": "34567",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "currency": "SAR"
+  },
+  {
+    "street_address": "101 King Abdullah Road",
+    "street_name": "King Abdullah Road",
+    "building_number": "101",
+    "city": "Riyadh",
+    "state": "Riyadh",
+    "postal_code": "45678",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "currency": "SAR"
+  },
+  {
+    "street_address": "34 Tahlia Street",
+    "street_name": "Tahlia Street",
+    "building_number": "34",
+    "city": "Jeddah",
+    "state": "Makkah",
+    "postal_code": "56789",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "currency": "SAR"
+  }
+]

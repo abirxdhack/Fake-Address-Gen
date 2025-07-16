@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "1-2-3 Shibuya",
+    "street_name": "Shibuya",
+    "building_number": "1-2-3",
+    "city": "Tokyo",
+    "state": "Tokyo",
+    "postal_code": "150-0002",
+    "country": "Japan",
+    "country_code": "JP",
+    "currency": "JPY"
+  },
+  {
+    "street_address": "4-5-6 Shinjuku",
+    "street_name": "Shinjuku",
+    "building_number": "4-5-6",
+    "city": "Tokyo",
+    "state": "Tokyo",
+    "postal_code": "160-0022",
+    "country": "Japan",
+    "country_code": "JP",
+    "currency": "JPY"
+  },
+  {
+    "street_address": "7-8-9 Umeda",
+    "street_name": "Umeda",
+    "building_number": "7-8-9",
+    "city": "Osaka",
+    "state": "Osaka",
+    "postal_code": "530-0001",
+    "country": "Japan",
+    "country_code": "JP",
+    "currency": "JPY"
+  },
+  {
+    "street_address": "10-11-12 Sakae",
+    "street_name": "Sakae",
+    "building_number": "10-11-12",
+    "city": "Nagoya",
+    "state": "Aichi",
+    "postal_code": "460-0008",
+    "country": "Japan",
+    "country_code": "JP",
+    "currency": "JPY"
+  },
+  {
+    "street_address": "13-14-15 Hakataekimae",
+    "street_name": "Hakataekimae",
+    "building_number": "13-14-15",
+    "city": "Fukuoka",
+    "state": "Fukuoka",
+    "postal_code": "812-0011",
+    "country": "Japan",
+    "country_code": "JP",
+    "currency": "JPY"
+  }
+]

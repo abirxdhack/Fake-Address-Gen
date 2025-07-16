@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Aleksanterinkatu",
+    "street_name": "Aleksanterinkatu",
+    "building_number": "123",
+    "city": "Helsinki",
+    "state": "Uusimaa",
+    "postal_code": "00100",
+    "country": "Finland",
+    "country_code": "FI",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "456 Mannerheimintie",
+    "street_name": "Mannerheimintie",
+    "building_number": "456",
+    "city": "Helsinki",
+    "state": "Uusimaa",
+    "postal_code": "00100",
+    "country": "Finland",
+    "country_code": "FI",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "789 Kauppatori",
+    "street_name": "Kauppatori",
+    "building_number": "789",
+    "city": "Helsinki",
+    "state": "Uusimaa",
+    "postal_code": "00170",
+    "country": "Finland",
+    "country_code": "FI",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "101 Hämeenkatu",
+    "street_name": "Hämeenkatu",
+    "building_number": "101",
+    "city": "Tampere",
+    "state": "Pirkanmaa",
+    "postal_code": "33100",
+    "country": "Finland",
+    "country_code": "FI",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "34 Linnankatu",
+    "street_name": "Linnankatu",
+    "building_number": "34",
+    "city": "Turku",
+    "state": "Southwest Finland",
+    "postal_code": "20100",
+    "country": "Finland",
+    "country_code": "FI",
+    "currency": "EUR"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "10 Downing Street",
+    "street_name": "Downing Street",
+    "building_number": "10",
+    "city": "London",
+    "state": "England",
+    "postal_code": "SW1A 2AA",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "street_address": "221B Baker Street",
+    "street_name": "Baker Street",
+    "building_number": "221B",
+    "city": "London",
+    "state": "England",
+    "postal_code": "NW1 6XE",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "street_address": "45 Oxford Street",
+    "street_name": "Oxford Street",
+    "building_number": "45",
+    "city": "London",
+    "state": "England",
+    "postal_code": "W1D 1BS",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "street_address": "78 Princess Street",
+    "street_name": "Princess Street",
+    "building_number": "78",
+    "city": "Manchester",
+    "state": "England",
+    "postal_code": "M1 6EN",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "street_address": "12 Royal Mile",
+    "street_name": "Royal Mile",
+    "building_number": "12",
+    "city": "Edinburgh",
+    "state": "Scotland",
+    "postal_code": "EH1 1QS",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  }
+]

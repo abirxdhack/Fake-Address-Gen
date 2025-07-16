@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "12 Mall Road",
+    "street_name": "Mall Road",
+    "building_number": "12",
+    "city": "Lahore",
+    "state": "Punjab",
+    "postal_code": "54000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "45 Shahrah-e-Faisal",
+    "street_name": "Shahrah-e-Faisal",
+    "building_number": "45",
+    "city": "Karachi",
+    "state": "Sindh",
+    "postal_code": "75350",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "789 Jinnah Avenue",
+    "street_name": "Jinnah Avenue",
+    "building_number": "789",
+    "city": "Islamabad",
+    "state": "ICT",
+    "postal_code": "44000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "34 The Mall",
+    "street_name": "The Mall",
+    "building_number": "34",
+    "city": "Rawalpindi",
+    "state": "Punjab",
+    "postal_code": "46000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "12 University Road",
+    "street_name": "University Road",
+    "building_number": "12",
+    "city": "Peshawar",
+    "state": "Khyber Pakhtunkhwa",
+    "postal_code": "25000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  }
+]

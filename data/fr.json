@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "12 Rue de Rivoli",
+    "street_name": "Rue de Rivoli",
+    "building_number": "12",
+    "city": "Paris",
+    "state": "Île-de-France",
+    "postal_code": "75004",
+    "country": "France",
+    "country_code": "FR",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "45 Avenue des Champs-Élysées",
+    "street_name": "Avenue des Champs-Élysées",
+    "building_number": "45",
+    "city": "Paris",
+    "state": "Île-de-France",
+    "postal_code": "75008",
+    "country": "France",
+    "country_code": "FR",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "789 Boulevard de la Croisette",
+    "street_name": "Boulevard de la Croisette",
+    "building_number": "789",
+    "city": "Cannes",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "postal_code": "06400",
+    "country": "France",
+    "country_code": "FR",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "34 Rue de la République",
+    "street_name": "Rue de la République",
+    "building_number": "34",
+    "city": "Lyon",
+    "state": "Auvergne-Rhône-Alpes",
+    "postal_code": "69002",
+    "country": "France",
+    "country_code": "FR",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "12 Promenade des Anglais",
+    "street_name": "Promenade des Anglais",
+    "building_number": "12",
+    "city": "Nice",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "postal_code": "06000",
+    "country": "France",
+    "country_code": "FR",
+    "currency": "EUR"
+  }
+]

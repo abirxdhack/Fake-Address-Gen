@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 La Rambla",
+    "street_name": "La Rambla",
+    "building_number": "123",
+    "city": "Barcelona",
+    "state": "Catalonia",
+    "postal_code": "08002",
+    "country": "Spain",
+    "country_code": "ES",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "456 Gran Vía",
+    "street_name": "Gran Vía",
+    "building_number": "456",
+    "city": "Madrid",
+    "state": "Madrid",
+    "postal_code": "28013",
+    "country": "Spain",
+    "country_code": "ES",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "789 Paseo de Gracia",
+    "street_name": "Paseo de Gracia",
+    "building_number": "789",
+    "city": "Barcelona",
+    "state": "Catalonia",
+    "postal_code": "08008",
+    "country": "Spain",
+    "country_code": "ES",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "101 Calle de Serrano",
+    "street_name": "Calle de Serrano",
+    "building_number": "101",
+    "city": "Madrid",
+    "state": "Madrid",
+    "postal_code": "28006",
+    "country": "Spain",
+    "country_code": "ES",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "34 Calle Larios",
+    "street_name": "Calle Larios",
+    "building_number": "34",
+    "city": "Malaga",
+    "state": "Andalusia",
+    "postal_code": "29005",
+    "country": "Spain",
+    "country_code": "ES",
+    "currency": "EUR"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Strøget",
+    "street_name": "Strøget",
+    "building_number": "123",
+    "city": "Copenhagen",
+    "state": "Capital Region",
+    "postal_code": "1200",
+    "country": "Denmark",
+    "country_code": "DK",
+    "currency": "DKK"
+  },
+  {
+    "street_address": "456 Nyhavn",
+    "street_name": "Nyhavn",
+    "building_number": "456",
+    "city": "Copenhagen",
+    "state": "Capital Region",
+    "postal_code": "1051",
+    "country": "Denmark",
+    "country_code": "DK",
+    "currency": "DKK"
+  },
+  {
+    "street_address": "789 Åboulevard",
+    "street_name": "Åboulevard",
+    "building_number": "789",
+    "city": "Aarhus",
+    "state": "Central Denmark",
+    "postal_code": "8000",
+    "country": "Denmark",
+    "country_code": "DK",
+    "currency": "DKK"
+  },
+  {
+    "street_address": "101 Vestergade",
+    "street_name": "Vestergade",
+    "building_number": "101",
+    "city": "Odense",
+    "state": "Southern Denmark",
+    "postal_code": "5000",
+    "country": "Denmark",
+    "country_code": "DK",
+    "currency": "DKK"
+  },
+  {
+    "street_address": "34 Nørregade",
+    "street_name": "Nørregade",
+    "building_number": "34",
+    "city": "Aalborg",
+    "state": "North Denmark",
+    "postal_code": "9000",
+    "country": "Denmark",
+    "country_code": "DK",
+    "currency": "DKK"
+  }
+]

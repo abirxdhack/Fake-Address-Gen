@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Istiklal Caddesi",
+    "street_name": "Istiklal Caddesi",
+    "building_number": "123",
+    "city": "Istanbul",
+    "state": "Istanbul",
+    "postal_code": "34430",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "street_address": "456 Ataturk Bulvari",
+    "street_name": "Ataturk Bulvari",
+    "building_number": "456",
+    "city": "Ankara",
+    "state": "Ankara",
+    "postal_code": "06680",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "street_address": "789 Kordon Boyu",
+    "street_name": "Kordon Boyu",
+    "building_number": "789",
+    "city": "Izmir",
+    "state": "Izmir",
+    "postal_code": "35220",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "street_address": "101 Cumhuriyet Caddesi",
+    "street_name": "Cumhuriyet Caddesi",
+    "building_number": "101",
+    "city": "Antalya",
+    "state": "Antalya",
+    "postal_code": "07050",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "street_address": "34 Sahil Yolu",
+    "street_name": "Sahil Yolu",
+    "building_number": "34",
+    "city": "Bodrum",
+    "state": "Mugla",
+    "postal_code": "48400",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  }
+]

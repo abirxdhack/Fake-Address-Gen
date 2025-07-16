@@ -1,0 +1,90 @@
+[
+  {
+    "street_address": "Abay Ave 12",
+    "street_name": "Abay Ave",
+    "building_number": "12",
+    "city": "Almaty",
+    "state": "Almaty City",
+    "postal_code": "050000",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "Kabanbay Batyr 45",
+    "street_name": "Kabanbay Batyr",
+    "building_number": "45",
+    "city": "Astana",
+    "state": "Astana City",
+    "postal_code": "010000",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "Gogol Street 78",
+    "street_name": "Gogol Street",
+    "building_number": "78",
+    "city": "Shymkent",
+    "state": "Shymkent City",
+    "postal_code": "160000",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "Furmanov Street 9",
+    "street_name": "Furmanov Street",
+    "building_number": "9",
+    "city": "Karaganda",
+    "state": "Karaganda Region",
+    "postal_code": "100000",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "Dostyk Avenue 56",
+    "street_name": "Dostyk Avenue",
+    "building_number": "56",
+    "city": "Almaty",
+    "state": "Almaty City",
+    "postal_code": "050010",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "street x",
+    "street_name": "street x",
+    "building_number": "",
+    "city": "Astana",
+    "state": "Astana",
+    "postal_code": "020101",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "Rozybakiev Street, Bostandyk",
+    "street_name": "Rozybakiev Street",
+    "building_number": "",
+    "city": "Almaty",
+    "state": "Almaty",
+    "postal_code": "050060",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "IND,0062",
+    "street_name": "IND",
+    "building_number": "0062",
+    "city": "Semipalatinsk",
+    "state": "Almaty",
+    "postal_code": "020101",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  }
+]

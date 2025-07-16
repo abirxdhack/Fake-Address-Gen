@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Jalan Ampang",
+    "street_name": "Jalan Ampang",
+    "building_number": "123",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "postal_code": "50450",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "currency": "MYR"
+  },
+  {
+    "street_address": "456 Jalan Bukit Bintang",
+    "street_name": "Jalan Bukit Bintang",
+    "building_number": "456",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "postal_code": "55100",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "currency": "MYR"
+  },
+  {
+    "street_address": "789 Jalan Tun Razak",
+    "street_name": "Jalan Tun Razak",
+    "building_number": "789",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "postal_code": "50400",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "currency": "MYR"
+  },
+  {
+    "street_address": "101 Jalan Sultan Ismail",
+    "street_name": "Jalan Sultan Ismail",
+    "building_number": "101",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "postal_code": "50250",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "currency": "MYR"
+  },
+  {
+    "street_address": "34 Jalan Pasar",
+    "street_name": "Jalan Pasar",
+    "building_number": "34",
+    "city": "Penang",
+    "state": "Penang",
+    "postal_code": "10300",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "currency": "MYR"
+  }
+]

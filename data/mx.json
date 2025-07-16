@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "Avenida Paseo de la Reforma 123",
+    "street_name": "Avenida Paseo de la Reforma",
+    "building_number": "123",
+    "city": "Mexico City",
+    "state": "CDMX",
+    "postal_code": "06000",
+    "country": "Mexico",
+    "country_code": "MX",
+    "currency": "MXN"
+  },
+  {
+    "street_address": "Calle Madero 456",
+    "street_name": "Calle Madero",
+    "building_number": "456",
+    "city": "Mexico City",
+    "state": "CDMX",
+    "postal_code": "06000",
+    "country": "Mexico",
+    "country_code": "MX",
+    "currency": "MXN"
+  },
+  {
+    "street_address": "Avenida Constituyentes 789",
+    "street_name": "Avenida Constituyentes",
+    "building_number": "789",
+    "city": "Mexico City",
+    "state": "CDMX",
+    "postal_code": "11850",
+    "country": "Mexico",
+    "country_code": "MX",
+    "currency": "MXN"
+  },
+  {
+    "street_address": "Calle Morelos 101",
+    "street_name": "Calle Morelos",
+    "building_number": "101",
+    "city": "Guadalajara",
+    "state": "Jalisco",
+    "postal_code": "44100",
+    "country": "Mexico",
+    "country_code": "MX",
+    "currency": "MXN"
+  },
+  {
+    "street_address": "Avenida Revolución 234",
+    "street_name": "Avenida Revolución",
+    "building_number": "234",
+    "city": "Monterrey",
+    "state": "Nuevo León",
+    "postal_code": "64000",
+    "country": "Mexico",
+    "country_code": "MX",
+    "currency": "MXN"
+  }
+]

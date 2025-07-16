@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Bogyoke Aung San Road",
+    "street_name": "Bogyoke Aung San Road",
+    "building_number": "123",
+    "city": "Yangon",
+    "state": "Yangon Region",
+    "postal_code": "11101",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "currency": "MMK"
+  },
+  {
+    "street_address": "45 Insein Road",
+    "street_name": "Insein Road",
+    "building_number": "45",
+    "city": "Yangon",
+    "state": "Yangon Region",
+    "postal_code": "11011",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "currency": "MMK"
+  },
+  {
+    "street_address": "789 Shwedagon Pagoda Road",
+    "street_name": "Shwedagon Pagoda Road",
+    "building_number": "789",
+    "city": "Yangon",
+    "state": "Yangon Region",
+    "postal_code": "11141",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "currency": "MMK"
+  },
+  {
+    "street_address": "34 U Wisara Road",
+    "street_name": "U Wisara Road",
+    "building_number": "34",
+    "city": "Yangon",
+    "state": "Yangon Region",
+    "postal_code": "11122",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "currency": "MMK"
+  },
+  {
+    "street_address": "12 Kaba Aye Pagoda Road",
+    "street_name": "Kaba Aye Pagoda Road",
+    "building_number": "12",
+    "city": "Yangon",
+    "state": "Yangon Region",
+    "postal_code": "11061",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "currency": "MMK"
+  }
+]

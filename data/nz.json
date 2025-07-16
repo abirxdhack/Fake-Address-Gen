@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Queen Street",
+    "street_name": "Queen Street",
+    "building_number": "123",
+    "city": "Auckland",
+    "state": "Auckland",
+    "postal_code": "1010",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "street_address": "456 Lambton Quay",
+    "street_name": "Lambton Quay",
+    "building_number": "456",
+    "city": "Wellington",
+    "state": "Wellington",
+    "postal_code": "6011",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "street_address": "789 Colombo Street",
+    "street_name": "Colombo Street",
+    "building_number": "789",
+    "city": "Christchurch",
+    "state": "Canterbury",
+    "postal_code": "8011",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "street_address": "101 Princes Street",
+    "street_name": "Princes Street",
+    "building_number": "101",
+    "city": "Dunedin",
+    "state": "Otago",
+    "postal_code": "9016",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "street_address": "34 Devonport Road",
+    "street_name": "Devonport Road",
+    "building_number": "34",
+    "city": "Tauranga",
+    "state": "Bay of Plenty",
+    "postal_code": "3110",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  }
+]

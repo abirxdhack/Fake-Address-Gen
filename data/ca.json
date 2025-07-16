@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "24 Sussex Drive",
+    "street_name": "Sussex Drive",
+    "building_number": "24",
+    "city": "Ottawa",
+    "state": "Ontario",
+    "postal_code": "K1M 1M4",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "street_address": "100 Queen Street",
+    "street_name": "Queen Street",
+    "building_number": "100",
+    "city": "Toronto",
+    "state": "Ontario",
+    "postal_code": "M5H 2N2",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "street_address": "789 Robson Street",
+    "street_name": "Robson Street",
+    "building_number": "789",
+    "city": "Vancouver",
+    "state": "British Columbia",
+    "postal_code": "V6B 6A1",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "street_address": "101 Saint Catherine Street",
+    "street_name": "Saint Catherine Street",
+    "building_number": "101",
+    "city": "Montreal",
+    "state": "Quebec",
+    "postal_code": "H2X 1K4",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "street_address": "234 Jasper Avenue",
+    "street_name": "Jasper Avenue",
+    "building_number": "234",
+    "city": "Edmonton",
+    "state": "Alberta",
+    "postal_code": "T5J 1Y6",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  }
+]

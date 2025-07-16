@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "120 Gulshan Avenue",
+    "street_name": "Gulshan Avenue",
+    "building_number": "120",
+    "city": "Dhaka",
+    "state": "Dhaka Division",
+    "postal_code": "1212",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "currency": "BDT"
+  },
+  {
+    "street_address": "45 Mirpur Road",
+    "street_name": "Mirpur Road",
+    "building_number": "45",
+    "city": "Dhaka",
+    "state": "Dhaka Division",
+    "postal_code": "1207",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "currency": "BDT"
+  },
+  {
+    "street_address": "789 Dhanmondi Road",
+    "street_name": "Dhanmondi Road",
+    "building_number": "789",
+    "city": "Dhaka",
+    "state": "Dhaka Division",
+    "postal_code": "1209",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "currency": "BDT"
+  },
+  {
+    "street_address": "34 Uttara Sector 4",
+    "street_name": "Uttara Sector 4",
+    "building_number": "34",
+    "city": "Dhaka",
+    "state": "Dhaka Division",
+    "postal_code": "1230",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "currency": "BDT"
+  },
+  {
+    "street_address": "12 Banani Road",
+    "street_name": "Banani Road",
+    "building_number": "12",
+    "city": "Dhaka",
+    "state": "Dhaka Division",
+    "postal_code": "1213",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "currency": "BDT"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Nile Corniche",
+    "street_name": "Nile Corniche",
+    "building_number": "123",
+    "city": "Cairo",
+    "state": "Cairo Governorate",
+    "postal_code": "11511",
+    "country": "Egypt",
+    "country_code": "EG",
+    "currency": "EGP"
+  },
+  {
+    "street_address": "456 Pyramids Road",
+    "street_name": "Pyramids Road",
+    "building_number": "456",
+    "city": "Giza",
+    "state": "Giza Governorate",
+    "postal_code": "12511",
+    "country": "Egypt",
+    "country_code": "EG",
+    "currency": "EGP"
+  },
+  {
+    "street_address": "789 Alexandria Street",
+    "street_name": "Alexandria Street",
+    "building_number": "789",
+    "city": "Alexandria",
+    "state": "Alexandria Governorate",
+    "postal_code": "21511",
+    "country": "Egypt",
+    "country_code": "EG",
+    "currency": "EGP"
+  },
+  {
+    "street_address": "101 Luxor Avenue",
+    "street_name": "Luxor Avenue",
+    "building_number": "101",
+    "city": "Luxor",
+    "state": "Luxor Governorate",
+    "postal_code": "85511",
+    "country": "Egypt",
+    "country_code": "EG",
+    "currency": "EGP"
+  },
+  {
+    "street_address": "34 Suez Canal Road",
+    "street_name": "Suez Canal Road",
+    "building_number": "34",
+    "city": "Suez",
+    "state": "Suez Governorate",
+    "postal_code": "43511",
+    "country": "Egypt",
+    "country_code": "EG",
+    "currency": "EGP"
+  }
+]

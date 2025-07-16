@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Rue de la Loi",
+    "street_name": "Rue de la Loi",
+    "building_number": "123",
+    "city": "Brussels",
+    "state": "Brussels-Capital",
+    "postal_code": "1000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "456 Grand Place",
+    "street_name": "Grand Place",
+    "building_number": "456",
+    "city": "Brussels",
+    "state": "Brussels-Capital",
+    "postal_code": "1000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "789 Meir Street",
+    "street_name": "Meir Street",
+    "building_number": "789",
+    "city": "Antwerp",
+    "state": "Antwerp",
+    "postal_code": "2000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "101 Naamsestraat",
+    "street_name": "Naamsestraat",
+    "building_number": "101",
+    "city": "Leuven",
+    "state": "Flemish Brabant",
+    "postal_code": "3000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "34 Veldstraat",
+    "street_name": "Veldstraat",
+    "building_number": "34",
+    "city": "Ghent",
+    "state": "East Flanders",
+    "postal_code": "9000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  }
+]

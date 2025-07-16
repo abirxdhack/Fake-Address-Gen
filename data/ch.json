@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Bahnhofstrasse",
+    "street_name": "Bahnhofstrasse",
+    "building_number": "123",
+    "city": "Zurich",
+    "state": "Zurich",
+    "postal_code": "8001",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "street_address": "456 Rue du Rhône",
+    "street_name": "Rue du Rhône",
+    "building_number": "456",
+    "city": "Geneva",
+    "state": "Geneva",
+    "postal_code": "1204",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "street_address": "789 Bundesplatz",
+    "street_name": "Bundesplatz",
+    "building_number": "789",
+    "city": "Bern",
+    "state": "Bern",
+    "postal_code": "3011",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "street_address": "101 Via Nassa",
+    "street_name": "Via Nassa",
+    "building_number": "101",
+    "city": "Lugano",
+    "state": "Ticino",
+    "postal_code": "6900",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "street_address": "34 Rue du Mont-Blanc",
+    "street_name": "Rue du Mont-Blanc",
+    "building_number": "34",
+    "city": "Geneva",
+    "state": "Geneva",
+    "postal_code": "1201",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  }
+]

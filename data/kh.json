@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Preah Norodom Boulevard",
+    "street_name": "Preah Norodom Boulevard",
+    "building_number": "123",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "street_address": "456 Street 240",
+    "street_name": "Street 240",
+    "building_number": "456",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "street_address": "789 Sisowath Quay",
+    "street_name": "Sisowath Quay",
+    "building_number": "789",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "street_address": "101 Monivong Boulevard",
+    "street_name": "Monivong Boulevard",
+    "building_number": "101",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "street_address": "34 Russian Boulevard",
+    "street_name": "Russian Boulevard",
+    "building_number": "34",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  }
+]

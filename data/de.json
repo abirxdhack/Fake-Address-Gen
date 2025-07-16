@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Friedrichstraße",
+    "street_name": "Friedrichstraße",
+    "building_number": "123",
+    "city": "Berlin",
+    "state": "Berlin",
+    "postal_code": "10117",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "456 Maximilianstraße",
+    "street_name": "Maximilianstraße",
+    "building_number": "456",
+    "city": "Munich",
+    "state": "Bavaria",
+    "postal_code": "80539",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "789 Zeil",
+    "street_name": "Zeil",
+    "building_number": "789",
+    "city": "Frankfurt",
+    "state": "Hesse",
+    "postal_code": "60313",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "101 Königsallee",
+    "street_name": "Königsallee",
+    "building_number": "101",
+    "city": "Düsseldorf",
+    "state": "North Rhine-Westphalia",
+    "postal_code": "40212",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "34 Reeperbahn",
+    "street_name": "Reeperbahn",
+    "building_number": "34",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "postal_code": "20359",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  }
+]

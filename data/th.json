@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Sukhumvit Road",
+    "street_name": "Sukhumvit Road",
+    "building_number": "123",
+    "city": "Bangkok",
+    "state": "Bangkok",
+    "postal_code": "10110",
+    "country": "Thailand",
+    "country_code": "TH",
+    "currency": "THB"
+  },
+  {
+    "street_address": "456 Ratchadamnoen Avenue",
+    "street_name": "Ratchadamnoen Avenue",
+    "building_number": "456",
+    "city": "Bangkok",
+    "state": "Bangkok",
+    "postal_code": "10200",
+    "country": "Thailand",
+    "country_code": "TH",
+    "currency": "THB"
+  },
+  {
+    "street_address": "789 Nimmanhaemin Road",
+    "street_name": "Nimmanhaemin Road",
+    "building_number": "789",
+    "city": "Chiang Mai",
+    "state": "Chiang Mai",
+    "postal_code": "50200",
+    "country": "Thailand",
+    "country_code": "TH",
+    "currency": "THB"
+  },
+  {
+    "street_address": "101 Beach Road",
+    "street_name": "Beach Road",
+    "building_number": "101",
+    "city": "Pattaya",
+    "state": "Chonburi",
+    "postal_code": "20150",
+    "country": "Thailand",
+    "country_code": "TH",
+    "currency": "THB"
+  },
+  {
+    "street_address": "34 Tha Pae Road",
+    "street_name": "Tha Pae Road",
+    "building_number": "34",
+    "city": "Chiang Mai",
+    "state": "Chiang Mai",
+    "postal_code": "50100",
+    "country": "Thailand",
+    "country_code": "TH",
+    "currency": "THB"
+  }
+]
