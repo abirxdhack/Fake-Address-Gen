@@ -16,7 +16,7 @@ def get_address():
     country_code = request.args.get('code', '').upper()
     if not country_code:
         return jsonify({
-            "error": "Country code is required",
+            "error": "Sorry Bro Invalid Country Code Provided",
             "api_owner": "@ISmartCoder",
             "api_updates": "t.me/TheSmartDev"
         }), 400
