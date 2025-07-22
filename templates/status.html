@@ -66,7 +66,10 @@
                 <select id="country-select" class="p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
                     <option value="" disabled selected>Select a country</option>
                     <option value="US">United States (US)</option>
+					<option value="GB">United Kingdom (GB)</option>
                     <option value="UK">United Kingdom (UK)</option>
+					<option value="UG">Uganda (UG)</option>
+					<option value="CN">China (CN)</option>
                     <option value="KZ">Kazakhstan (KZ)</option>
                     <option value="BD">Bangladesh (BD)</option>
                     <option value="CA">Canada (CA)</option>
@@ -138,19 +141,20 @@
             <div class="bg-gray-50 p-4 rounded-lg shadow-sm">
                 <h3 class="text-xl font-semibold text-gray-700 mb-4">Successful Response</h3>
                 <pre class="bg-gray-100 p-2 rounded text-sm text-gray-700">
-{
-  "api_owner": "@ISmartCoder",
-  "api_updates": "t.me/TheSmartDev",
-  "building_number": "456",
-  "city": "Los Angeles",
-  "country": "United States",
-  "country_code": "US",
-  "currency": "USD",
-  "postal_code": "90028",
-  "state": "California",
-  "street_address": "456 Hollywood Boulevard",
-  "street_name": "Hollywood Boulevard"
-}
+  {
+    "street_address": "123 Main Street",
+    "street_name": "Main Street",
+    "building_number": "123",
+    "city": "New York",
+    "state": "New York",
+    "postal_code": "10001",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD",
+    "person_name": "James Carter",
+    "gender": "Male",
+    "phone_number": "+12125550123"
+  }
                 </pre>
                 <h3 class="text-xl font-semibold text-gray-700 mt-6 mb-4">Error Response</h3>
                 <pre class="bg-gray-100 p-2 rounded text-sm text-gray-700">
@@ -176,6 +180,15 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                 <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
                     <span class="font-semibold text-blue-600">US</span> - United States
+                </div>
+				<div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">GB</span> - United Kingdom
+                </div>
+				<div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">UG</span> - Uganda
+                </div>
+				<div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
+                    <span class="font-semibold text-blue-600">CN</span> - China
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg shadow-sm hover:shadow-md transition">
                     <span class="font-semibold text-blue-600">UK</span> - United Kingdom
