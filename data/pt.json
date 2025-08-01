@@ -294,9 +294,17 @@
     "phone_number": "+351912345698"
   },
   {
-    "street_address": "67 Rua 25 de Abril",
-    "street_name": "Rua 25 de Abril",
-    "building_number": "67",
-    "city": "Setúbal",
-    "state": "Setúbal District",
-    "postal_code": "2900-297",
+    "street_address": "25 Rua do Raio",
+    "street_name": "Rua do Raio",
+    "building_number": "25",
+    "city": "Braga",
+    "state": "Braga District",
+    "postal_code": "4710-923",
+    "country": "Portugal",
+    "country_code": "PT",
+    "currency": "EUR",
+    "person_name": "Luís Mendes",
+    "gender": "Male",
+    "phone_number": "+351912345698"
+  }
+]  
